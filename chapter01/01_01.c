@@ -7,3 +7,4 @@ int main(void) {
     printf("So you have %d dog(s)!\n", dogs);
     return 0;
 }
+
