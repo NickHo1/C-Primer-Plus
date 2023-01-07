@@ -9,7 +9,6 @@ printf("a = %d\n", a);
 a = a + 1;
 printf("a = %d\n", a);
 
-Copy code
  // 浮点数上溢
  float b = 3.4e38;
  printf("b = %f\n", b);
